@@ -50,3 +50,9 @@ body
     background: white;
     padding: 1em;
 }
+
+#footer{
+  background: #333;
+  text-align:center;
+  color:#fff;
+}
